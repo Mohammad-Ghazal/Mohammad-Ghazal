@@ -15,7 +15,7 @@ const dayClick =function(id){
   //console.log("cell Clicked")
  // console.log( document.querySelector("#"+id).innerText)
  console.log(id)
- id.style.background = 'blue'
+ id.style.background = '#FFD700'
 //document.querySelector("'#"+id+"'").style.background = 'red' 
 //document.querySelector('#c17').style.background = 'red'
 
@@ -43,10 +43,11 @@ let row = table.insertRow(-1); // -1 mean insert befor
  l=9;
 for(i=0;i<=9;i++){
   let cell = row.insertCell(i);
-    if(i===0){
+    if(i===0){ //days title
       cell.innerHTML = week[y++];
       cell.setAttribute("id","d"+x+""+i);
       cell.setAttribute("onClick", "dayClick(d"+x+""+i+")") 
+      cell.setAttribute("class","dayesHeaders") //#FFD700
     }else{
     cell.innerHTML = l++ +":00 "//+x+""+i;
     cell.setAttribute("id","c"+x+""+i);
