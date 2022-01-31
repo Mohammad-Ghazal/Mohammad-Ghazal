@@ -6,23 +6,23 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Ghazal)  
 
+ [portfolio](https://mohammad-ghazal.github.io/Ghazal-Portfolio/)
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohammad-g-ghazal/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCt-0Wm2j7mvCP5MCic_EA1Q)  
-
+ [youtube](https://www.youtube.com/channel/UCt-0Wm2j7mvCP5MCic_EA1Q)
 
 🔭 I’m currently working on my cooding **skills**
 **HTML, CSS, JavaScript
 React, Redux
 jQuery, Bootstrap, WordPress
 Node.js, Express, Socket.IO
-MySQL, MongoDB, Firebase
+MySQL, MongoDB, Firebase**
 
 - 🌱 I’m currently learning php laravel
 - 🤔 I’m looking for help to get a new job
 - 📫 How to reach me: 00962/ 7 888 1 222 3
 - ⚡ Fun fact: ... I'm smily one 
 
-- [portfolio](https://mohammad-ghazal.github.io/Ghazal-Portfolio/)
-- [youtube](https://www.youtube.com/channel/UCt-0Wm2j7mvCP5MCic_EA1Q)
+
 
 ![I am full-stack developer](https://media-exp1.licdn.com/dms/image/C4D16AQEHmodmBhqeyQ/profile-displaybackgroundimage-shrink_350_1400/0/1609525251539?e=1649289600&v=beta&t=2rldBL4azXo8AmBrTZ-NLoSr7nuTB75hXyS8tEDksLE)
 
