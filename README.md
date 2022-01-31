@@ -6,10 +6,14 @@ Welcome to محمد غزال GitHub page 👋
 
 
 
-- 🔭 I’m currently working on my cooding skills
+- 🔭 I’m currently working on my cooding **skills**
 
-
-Skills:  JS / REACT / Redux / HTML / CSS
+  JS / REACT / Redux / HTML / CSS
+**HTML, CSS, JavaScript
+React, Redux
+jQuery, Bootstrap, WordPress
+Node.js, Express, Socket.IO
+MySQL, MongoDB, Firebase
 
 - 🌱 I’m currently learning php laravel
 - 👯 I’m looking to collaborate with php
