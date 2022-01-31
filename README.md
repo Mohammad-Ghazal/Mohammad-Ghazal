@@ -8,8 +8,10 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Ghazal)  
 
 
-[linked-in](https://www.linkedin.com/in/mohammad-g-ghazal/) 
- [<img src='https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png' alt='linkedin' height='40' width='60'>]
+<!-- [linked-in](https://www.linkedin.com/in/mohammad-g-ghazal/) 
+ -->
+
+ [<img src='https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png' alt='linkedin' height='40'>]
 (https://www.linkedin.com/in/mohammad-g-ghazal/) 
 
  [<img src='https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg' alt='YouTube' height='40' width='60'>](https://www.youtube.com/channel/UCt-0Wm2j7mvCP5MCic_EA1Q)  
