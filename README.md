@@ -16,8 +16,8 @@
  [youtube](https://www.youtube.com/channel/UCt-0Wm2j7mvCP5MCic_EA1Q)
  
  
-[<img src='https://www.pinclipart.com/picdir/big/181-1814767_person-svg-png-icon-free-download-profile-icon.png' alt='portfolio' height='40' width='60'>]
-(https://mohammad-ghazal.github.io/Ghazal-Portfolio/)
+[<img src='https://www.pinclipart.com/picdir/big/181-1814767_person-svg-png-icon-free-download-profile-icon.png' alt='portfolio' height='40' width='60'>](https://mohammad-ghazal.github.io/Ghazal-Portfolio/)
+
  [portfolio](https://mohammad-ghazal.github.io/Ghazal-Portfolio/)
 
 <br>
