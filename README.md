@@ -8,9 +8,6 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Ghazal)  
 
 
-<!-- [linked-in](https://www.linkedin.com/in/mohammad-g-ghazal/) 
- -->
-
  <img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>
 https://www.linkedin.com/in/mohammad-g-ghazal/
 
