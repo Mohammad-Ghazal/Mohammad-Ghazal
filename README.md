@@ -10,9 +10,9 @@
  
  
 [linked-in](https://www.linkedin.com/in/mohammad-g-ghazal/) 
-[ youtube ](https://www.youtube.com/channel/UCt-0Wm2j7mvCP5MCic_EA1Q) 
+[_youtube_](https://www.youtube.com/channel/UCt-0Wm2j7mvCP5MCic_EA1Q) 
 [portfolio](https://mohammad-ghazal.github.io/Ghazal-Portfolio/) 
-[ resume ](https://1drv.ms/b/s!ArYGPvajeBNNgQjWA-JglJMaTMvd?e=QlmqeK) 
+[_resume_](https://1drv.ms/b/s!ArYGPvajeBNNgQjWA-JglJMaTMvd?e=QlmqeK) 
 
 
  
@@ -24,7 +24,8 @@
 <br>
 -🔭 I’m currently working on my cooding **skills**
 <br>
-**HTML, CSS, JavaScript
+**
+HTML, CSS, JavaScript
 <br>
 React, Redux
 <br>
@@ -32,7 +33,8 @@ jQuery, Bootstrap, WordPress
 <br>
 Node.js, Express, Socket.IO
 <br>
-MySQL, MongoDB, Firebase**
+MySQL, MongoDB, Firebase
+**
 <br>
 <br>
 - 🌱 I’m currently learning php laravel
