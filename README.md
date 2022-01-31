@@ -2,31 +2,25 @@
 ### full-stack developer  محمد غزال GitHub page . 
 
 
-![image](https://user-images.githubusercontent.com/69714442/151793100-322f76ad-9b4d-432b-b184-371a934e4d2f.png)
+[image](https://user-images.githubusercontent.com/69714442/151793100-322f76ad-9b4d-432b-b184-371a934e4d2f.png)
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Ghazal)  
+[GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Ghazal)  
 
-<ul>
-<li>
- 
+
  [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40' width='60'>](https://www.linkedin.com/in/mohammad-g-ghazal/)  
-<!-- [linked-in](https://www.linkedin.com/in/mohammad-g-ghazal/)
- -->
-  </li>
- <li>
+[linked-in](https://www.linkedin.com/in/mohammad-g-ghazal/)
+
+
  [<img src='https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg' alt='YouTube' height='40' width='60'>](https://www.youtube.com/channel/UCt-0Wm2j7mvCP5MCic_EA1Q)  
-<!--  [youtube](https://www.youtube.com/channel/UCt-0Wm2j7mvCP5MCic_EA1Q)
-  -->
- </li>
- <li>
+[youtube](https://www.youtube.com/channel/UCt-0Wm2j7mvCP5MCic_EA1Q)
+
+
 [<img src='https://www.pinclipart.com/picdir/big/181-1814767_person-svg-png-icon-free-download-profile-icon.png' alt='portfolio' height='40' width='60'>](https://mohammad-ghazal.github.io/Ghazal-Portfolio/)
 
-<!--  [portfolio](https://mohammad-ghazal.github.io/Ghazal-Portfolio/)
- -->
- </li>
+ [portfolio](https://mohammad-ghazal.github.io/Ghazal-Portfolio/)
 
-  </ul>
+
 <br>
 🔭 I’m currently working on my cooding **skills**
 **HTML, CSS, JavaScript
