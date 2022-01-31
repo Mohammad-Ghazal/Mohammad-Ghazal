@@ -10,9 +10,9 @@
  
  
 [linked-in](https://www.linkedin.com/in/mohammad-g-ghazal/) 
-[youtube](https://www.youtube.com/channel/UCt-0Wm2j7mvCP5MCic_EA1Q) 
+[ youtube ](https://www.youtube.com/channel/UCt-0Wm2j7mvCP5MCic_EA1Q) 
 [portfolio](https://mohammad-ghazal.github.io/Ghazal-Portfolio/) 
-[resume](https://1drv.ms/b/s!ArYGPvajeBNNgQjWA-JglJMaTMvd?e=QlmqeK) 
+[ resume ](https://1drv.ms/b/s!ArYGPvajeBNNgQjWA-JglJMaTMvd?e=QlmqeK) 
 
 
  
