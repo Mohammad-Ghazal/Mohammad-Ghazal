@@ -1,6 +1,24 @@
 ### Hi there 👋, Welcome to 
 ### full-stack developer  محمد غزال GitHub page . 
-
+<picture>
+  <!-- If this type(avif) is supported, use this src -->
+  <source
+    type="image/avif" 
+    srcset="my-image.avif" 
+  />
+  <!-- Else, if this type(webp) is supported, use this src instead -->
+  <source
+    type="image/webp"
+    srcset="my-image.webp"
+  />
+  <!-- Else, fall back to jpg -->
+  <img 
+    src="my-image.jpg" 
+    alt="A test image" 
+    loading="lazy" 
+    decoding="async"
+  />
+</picture>
 
 [image](https://user-images.githubusercontent.com/69714442/151793100-322f76ad-9b4d-432b-b184-371a934e4d2f.png)
 
