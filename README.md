@@ -10,16 +10,16 @@
 
 
  [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40' width='60'>](https://www.linkedin.com/in/mohammad-g-ghazal/)  
-[linked-in](https://www.linkedin.com/in/mohammad-g-ghazal/)
-
+<!-- [linked-in](https://www.linkedin.com/in/mohammad-g-ghazal/)
+ -->
  [<img src='https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg' alt='YouTube' height='40' width='60'>](https://www.youtube.com/channel/UCt-0Wm2j7mvCP5MCic_EA1Q)  
- [youtube](https://www.youtube.com/channel/UCt-0Wm2j7mvCP5MCic_EA1Q)
- 
+<!--  [youtube](https://www.youtube.com/channel/UCt-0Wm2j7mvCP5MCic_EA1Q)
+  -->
  
 [<img src='https://www.pinclipart.com/picdir/big/181-1814767_person-svg-png-icon-free-download-profile-icon.png' alt='portfolio' height='40' width='60'>](https://mohammad-ghazal.github.io/Ghazal-Portfolio/)
 
- [portfolio](https://mohammad-ghazal.github.io/Ghazal-Portfolio/)
-
+<!--  [portfolio](https://mohammad-ghazal.github.io/Ghazal-Portfolio/)
+ -->
 <br>
 🔭 I’m currently working on my cooding **skills**
 **HTML, CSS, JavaScript
@@ -53,4 +53,5 @@ MySQL, MongoDB, Firebase**
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Ghazal)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Ghazal)](https://github.com/anuraghazra/github-readme-stats)
+ -->
