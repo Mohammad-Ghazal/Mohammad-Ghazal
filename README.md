@@ -18,3 +18,4 @@ Skills:  JS / REACT / Redux / HTML / CSS
 - 📫 How to reach me: 00962/ 7 888 1 222 3
 - ⚡ Fun fact: ... I'm smily one 
 - [portfolio](https://mohammad-ghazal.github.io/Ghazal-Portfolio/)
+- [youtube](https://www.youtube.com/channel/UCt-0Wm2j7mvCP5MCic_EA1Q)
