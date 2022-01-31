@@ -8,7 +8,9 @@
  
  
  <br>
-[linked-in](https://www.linkedin.com/in/mohammad-g-ghazal/) [youtube](https://www.youtube.com/channel/UCt-0Wm2j7mvCP5MCic_EA1Q)  [portfolio](https://mohammad-ghazal.github.io/Ghazal-Portfolio/)
+[linked-in](https://www.linkedin.com/in/mohammad-g-ghazal/)
+[youtube](https://www.youtube.com/channel/UCt-0Wm2j7mvCP5MCic_EA1Q)
+[portfolio](https://mohammad-ghazal.github.io/Ghazal-Portfolio/)
 
 
  
