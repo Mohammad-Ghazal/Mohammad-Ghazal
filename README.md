@@ -1,7 +1,14 @@
-Welcome to محمد غزال GitHub page 👋![gif](https://user-images.githubusercontent.com/69714442/151793100-322f76ad-9b4d-432b-b184-371a934e4d2f.png)
+Welcome to محمد غزال GitHub page 👋
+
+
+![image](https://user-images.githubusercontent.com/69714442/151793100-322f76ad-9b4d-432b-b184-371a934e4d2f.png)
+
+
 
 
 - 🔭 I’m currently working on my cooding skills
+ JS / REACT / Redux / HTML / CSS
+
 - 🌱 I’m currently learning php laravel
 - 👯 I’m looking to collaborate with php
 - 🤔 I’m looking for help to get a new job
