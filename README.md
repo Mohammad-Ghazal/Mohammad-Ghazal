@@ -22,13 +22,19 @@
 
 
 <br>
-🔭 I’m currently working on my cooding **skills**
+-🔭 I’m currently working on my cooding **skills**
+<br>
 **HTML, CSS, JavaScript
+<br>
 React, Redux
+<br>
 jQuery, Bootstrap, WordPress
+<br>
 Node.js, Express, Socket.IO
+<br>
 MySQL, MongoDB, Firebase**
-
+<br>
+<br>
 - 🌱 I’m currently learning php laravel
 - 🤔 I’m looking for help to get a new job
 - 📫 How to reach me: 00962/ 7 888 1 222 3
