@@ -24,16 +24,16 @@
 <br>
 -🔭 I’m currently working on my cooding **skills**
 <br>
-**
-**HTML, CSS, JavaScript
+
+**HTML, CSS, JavaScript**
 <br>
-**React, Redux
+**React, Redux**
 <br>
-**jQuery, Bootstrap, WordPress
+**jQuery**, **Bootstrap**, **WordPress**
 <br>
-**Node.js, Express, Socket.IO**
+**Node.js**, **Express**, **Socket.IO**
 <br>
-**MySQL, MongoDB, Firebase**
+**MySQL**, **MongoDB**, **Firebase**
 <br>
 <br>
 - 🌱 I’m currently learning php laravel.
