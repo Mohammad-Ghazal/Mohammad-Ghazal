@@ -1,5 +1,5 @@
 ### Hi there 👋, Welcome to 
-### full-stack developer  محمد غزال GitHub page 👋 
+### full-stack developer  محمد غزال GitHub page . 
 
 
 ![image](https://user-images.githubusercontent.com/69714442/151793100-322f76ad-9b4d-432b-b184-371a934e4d2f.png)
@@ -7,6 +7,8 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Ghazal)  
 
+
+[linked-in](https://www.linkedin.com/in/mohammad-g-ghazal/)
  [portfolio](https://mohammad-ghazal.github.io/Ghazal-Portfolio/)
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohammad-g-ghazal/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCt-0Wm2j7mvCP5MCic_EA1Q)  
  [youtube](https://www.youtube.com/channel/UCt-0Wm2j7mvCP5MCic_EA1Q)
