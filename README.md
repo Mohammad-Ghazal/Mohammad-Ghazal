@@ -1,4 +1,4 @@
-### Hi there 👋
+Welcome to محمد فزال GitHub page 👋
 
 - 🔭 I’m currently working on my cooding skills
 - 🌱 I’m currently learning php laravel
@@ -7,4 +7,4 @@
 - 💬 Ask me about any think
 - 📫 How to reach me: 00962/ 7 888 1 222 3
 - ⚡ Fun fact: ... I'm smily one 
-
+- [portfolio](https://mohammad-ghazal.github.io/Ghazal-Portfolio/)
